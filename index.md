@@ -73,17 +73,28 @@ C, C++, Python, R, DevOps, Database Management System using SQL,PowerBI, Flutter
 # Achievements 
 
 >> Pursuing Internship at TSYS Global Payments as a DevOps Intern
+
 >> Participated in AI-Retirethon to create an AI based Allocation Engine for Retirement Investments
+
 >> Internship in MediMaze Solutions Limited as a Data Science Intern
+
 >> Internship in Flutter Development in Constellation Pvt. Ltd. after First Year
+
 >> Participated in Smart India Hackathon 2023 (Problem Statement 1440 : Disaster Management)
+
 >> Flutter Head at Google Developer Students Club
+
 >> 3 star in Hackerrank in C++
+
 >> AICTE Google AIML Internship by Eduskills
+
 >> Overall Topper in Second Year
+
 >> Published a Research Paper and have the Copyright on Cosmetic Products survey in Chemistry
+
 >> Won 3rd prize in National Science Day Quiz Competition
+
 >> Hosted Flutter Development Workshop as Flutter Head under Google Developer Students
    Club
+
 >> Participated in Swaratarang College Fest
-```
